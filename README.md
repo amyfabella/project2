@@ -1,6 +1,8 @@
 # Project 2: Danguns and Durgens!
 ## Project description 
 Simple text-based, single-player, Dungeons-and-Dragons-esque computer game for those looking for adventure during this quarantine.  
+## Link
+https://nameless-mountain-15358.herokuapp.com/
 ## User story
 * For: people who seek fun and fantasy.
 * What it does: takes you on an interactive quest to defeat a zombie!
